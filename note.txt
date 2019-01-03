@@ -1,2 +1,2 @@
-a  b c  d  e f  z
+a  b c z
 eeeeeeeeeeeeee
